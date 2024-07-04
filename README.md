@@ -1,5 +1,5 @@
-# 🌳 Fonts Terminal Root
-Fonts Terminal Root - My fonts preferred
+# 🌳 Fonts Terminal Root - This is a fork!
+[Fonts Terminal Root](https://github.com/terroo/fonts) - My fonts preferred
 > A quick alternative to [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)!
 
 ---
